@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyGroceryList</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_item">Add First Item</string>
+    <string name="enter_item">Enter grocery item</string>
+    <string name="hint_item">Enter grocery item</string>
+    <string name="quantity_hint">quantity:</string>
+    <string name="save_item">Save</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="groceryname">Groceryname</string>
+    <string name="quantity">quantity</string>
+    <string name="dateAdded">Date:</string>
+    <string name="deleteTxt">del</string>
+    <string name="alert_text">Are you sure?</string>
+    <string name="noText">No</string>
+    <string name="yesText">Yes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addItems">Add items to groceries</string>
+</resources>
